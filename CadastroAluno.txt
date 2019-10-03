@@ -4,3 +4,5 @@ Versao: 001
 
 RA:
 Nome:
+Telefone:
+e-mail:
