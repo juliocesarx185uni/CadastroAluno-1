@@ -2,5 +2,6 @@ Cadastro: Disciplina
 
 Versao: 001
 
-Código:
+CÃ³digo:
 Disciplina:
+Curso:
