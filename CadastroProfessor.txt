@@ -5,3 +5,5 @@ Versao: 001
 Matricula:
 Nome:
 E-mail:
+Telefone:
+Disciplinas que leciona:
