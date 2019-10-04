@@ -2,5 +2,7 @@ Cadastro: Disciplina
 
 Versao: 001
 
-Código:
+CÃ³digo:
 Disciplina:
+Campus:
+Horariio de aula:
